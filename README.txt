@@ -55,10 +55,3 @@ SEGURIDAD Y USO ÉTICO:
 Este script debe ser utilizado exclusivamente con fines educativos, de auditoría autorizada o en entornos de prueba.
 El análisis de tráfico sin consentimiento puede ser ilegal y/o violar políticas organizacionales.
 
-AUTOR:
-------
-Desarrollado por [Tu Nombre o Alias]
-
-LICENCIA:
----------
-MIT License
